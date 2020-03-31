@@ -2,7 +2,7 @@
 
     $servername = "localhost";
     $username = "root";
-    $password = "Smuget1000";
+    $password = "";
     $dbname = "ppc_stats";
 
     $cid = $_GET['cid'];
